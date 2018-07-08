@@ -18,3 +18,6 @@ app_calculadora/package-lock.json
 
 app_firebase/node_modules
 app_firebase/package-lock.json
+
+app_whatsappClone/node_modules
+app_whatsappClone/package-lock.json
